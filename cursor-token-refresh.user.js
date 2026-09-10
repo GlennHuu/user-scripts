@@ -30,7 +30,7 @@
 		root["cursor-token-refresh"] = factory();
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 (function () {
   "use strict";
 

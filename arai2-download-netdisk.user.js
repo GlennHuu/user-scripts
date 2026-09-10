@@ -31,7 +31,7 @@
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 
 ;// ./src/utils/aria2.utils.ts
 class Aria2Utils {

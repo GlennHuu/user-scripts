@@ -28,7 +28,7 @@
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 
 GM_registerMenuCommand("跳过倒计时", () => {
     setTimeout(() => {

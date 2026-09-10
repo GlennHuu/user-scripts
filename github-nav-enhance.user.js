@@ -28,7 +28,7 @@
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 
 function modifyGithub() {
     const userName = document.querySelector('meta[name="user-login"]').getAttribute("content");

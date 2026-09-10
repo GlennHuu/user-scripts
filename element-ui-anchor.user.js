@@ -25,7 +25,7 @@
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 
 let lastHash = "";
 function callback(mutationsList, observer) {

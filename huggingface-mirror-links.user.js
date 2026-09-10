@@ -27,7 +27,7 @@
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 
 function createButton(text, url) {
     const button = document.createElement("a");

@@ -28,7 +28,7 @@
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 
 function addButtons() {
     const $wrap = document.querySelector(".github-source .source-navbar");

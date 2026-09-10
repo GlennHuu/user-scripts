@@ -28,7 +28,7 @@
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 
 function addHeaderButtons() {
     const $wrap = document.querySelector("ul.icons.d-header-icons");

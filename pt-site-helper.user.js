@@ -39,7 +39,7 @@
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 
 ;// ./src/utils/url.utils.ts
 class UrlUtils {

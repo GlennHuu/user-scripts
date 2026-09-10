@@ -25,7 +25,7 @@
 })(this, () => {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-var __webpack_exports__ = {};
+let __webpack_exports__ = {};
 
 function enhanceRxJS() {
     const $ul = document.querySelector("aio-shell > mat-toolbar > mat-toolbar-row:nth-child(2) > aio-top-menu > ul");
