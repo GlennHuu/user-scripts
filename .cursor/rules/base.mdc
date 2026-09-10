@@ -3,5 +3,11 @@ description:
 globs: 
 alwaysApply: true
 ---
-`src/scripts` 文件夹下的每一个子文件夹存放一个 TypeScript 脚本的源代码，
+## 编码规则
+- 默认直接写脚本到`src/js-scripts`
+- 如果用户要求必须用 TypeScript 则写到`src/scripts`并遵循现有代码的结构（ts + json 文件）。
+
+## 目录说明
+`src/js-scripts` 文件夹下用于存放直接可用的用户脚本。
+`src/scripts` 文件夹下的每一个子文件夹存放一个 TypeScript 脚本的源代码。
 `meta.json` 用于生成脚本的头部注释。
